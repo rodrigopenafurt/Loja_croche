@@ -256,8 +256,8 @@ footer li img {
     
 
     .lista-produtos img {
+        size: auto;
         margin-top: 20px;
-        min-width: 50vh;
     }
 
     #produtos-flex {
